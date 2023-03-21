@@ -1,2 +1,15 @@
-# Bussiness-Case-study
-Exploratory data analysis 
+RETAIL STORE IN DEPTH EXPLORATORY DATA ANALYSIS.
+
+
+Things to know:
+The dataset in this case study is extracted from a sample of 50 million and 50 million females.
+This dataset is of a multinational retail store
+
+#Problem statement:
+The bussiness wants to understand the purchasing patterns among the people which will allow them to make better bussiness 
+decisions.
+
+In this dataset,the plan of action is analyzing the patterns among spending and purchasing among Male and Female and various
+other factors that affect the sales among them for example sales on special events like Black friday
+
+
