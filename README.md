@@ -16,3 +16,4 @@ In this dataset,the plan of action is analyzing the patterns among spending and 
 other factors that affect the sales among them for example sales on special events like Black friday
 
 
+![image](https://user-images.githubusercontent.com/28903993/226493792-2fd8510f-c06f-4fb3-901d-58e2507f7fe4.png)
