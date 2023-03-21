@@ -1,6 +1,9 @@
 RETAIL STORE IN DEPTH EXPLORATORY DATA ANALYSIS.
 
 
+![image](https://user-images.githubusercontent.com/28903993/226493694-fc8760d3-a7e6-46d8-95a6-69c4f86f0ade.png)
+
+
 Things to know:
 The dataset in this case study is extracted from a sample of 50 million and 50 million females.
 This dataset is of a multinational retail store
