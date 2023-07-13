@@ -1,0 +1,80 @@
+Insights
+
+Customers are from different 4119 cities and 27 states from Brazil.
+
+total 99441 customers are there in given data.
+
+from total 99441 orders , 1107 are shipped ,625 were canceled, 96478 are delivered.
+
+Total 3095 sellers who are from 611 different cities and 23 states in Brazil
+
+Time period for which the data is given is 25 months.
+
+Compare to 2017 , revenue has increased in 2018 by 21%.
+
+Average number of order are higher during November month , september and october month average orders are comparatively low,
+in may and july and august have higher average orders compare to other months.
+
+Tuesday, Mondays and Wednesdays have relatively higher number of orders.
+
+
+#Growth
+
+#During year 2017 there is a sudden spike in Feb month in orders
+#During Year 2018 in Jan month we had maximum orders and in 2017 we had minimum orders in Jan
+#There is a massive growth In january month 9x growth
+
+#There is a growing trend in e commerce as we can clearly see there is increase in orders in year 2018 from 2017 
+
+#Average number of order are higher during November month.
+
+#September and october month average orders are comparatively low.
+
+#From the data its visible the sale for 2018 have increased alotas we have data for only 9 Months for 2018 we can only compare data for 
+8 months as there is partial data available for 9th month of 2018.As compared to year 2016 we have data available for 9 to 12th months 
+which is less compared to following years which indicates growth 
+
+#except for 3rd and 8th month sales for year 2018 increased
+
+#There have been increase of orders by 25 percent in 2018
+
+#There have been 21 percent increase in revenue in 2018
+
+#Product analysis
+
+#Health and beauty, Watches present, bed table bath, sport leisure, computer accessories, Furniture Decoration, housewares,Automotive are some of the top selling product categories.
+
+
+#PCs and Musical Instruments category have relatively less number of products , but contributes in a high revenue.
+
+#Time analysis
+
+#Most orders done by brazilians are in between 12 to 17 thats during afternoon
+#In Brazil people tend to order very less after midnight and early morning between 0 to 8. 
+
+#State wise distribution
+
+As its visible we have most customers from Sao Paulo city and SP State and 2nd largest customers from RIO DE JANEIRO city and RJ State
+
+#Revenue generation
+#SÃ£o Paulo ,Rio de Janeiro , Minas Gerais ,Rio Grande do Sul and ParanÃ¡ are top 5 highest orders states and also generating highest revenue.
+
+
+#Sum of freight value is highest in SP state while average freight value is lowest this means people when they have lower 
+avg freight value tend to order more 
+# As its visible as the time taken for delievery increases the avg freight value increases.Means longer distances have larger 
+freight value
+
+
+Recommendations:
+As it is seen in 2018 growth of sales have been massive but during some months it was not so we can look to offer discounts during those
+months
+
+We can look for setting up stores at places  from which orders have been comparatively low so that fright value can be 
+low and products can be delivered faster and at a cheaper rate
+
+Look up to develop more around SS state and give discounts for these state as its lowest customer base
+
+People tend to order very less during early morning we can introduce some early morning discount to increase the usage
+
+Pcs and musical instruments have less category but offer most revenue we can look to add up more categories for the same
